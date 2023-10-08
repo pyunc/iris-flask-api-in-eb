@@ -1,0 +1,5 @@
+input/data/**
+model/**
+output/failure/**
+env/**
+.venv/
